@@ -36,6 +36,31 @@ main {
     flex-grow: 1;
 }
 
+
+/*CÓDIGO PARA DEIXAR A IMAGEM INTEIRA, COMO PADRÃO*/
+
+
+/* .galeria-container {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    padding: 15px;
+    justify-content: center;
+} */
+
+
+/*CÓDIGO PARA DEIXAR A IMAGEM INTEIRA, COMO PADRÃO*/
+
+
+/* .galeria-itens {
+    max-width: 430px;
+    max-height: 340px;
+    flex-grow: 1;
+    border: 10px solid #ffff;
+    transition: all .5s ease-in-out;
+    overflow: hidden;
+} */
+
 .galeria-container {
     display: flex;
     gap: 15px;
