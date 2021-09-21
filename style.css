@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: cornflowerblue;
+    height: 100px;
+    display: grid;
+    place-content: center;
+    align-items: center;
+}
+
+main {
+    background-color: aqua;
+    flex-grow: 1;
+}
+
+footer {
+    background-color: palevioletred;
+    height: 50px;
+    display: grid;
+    place-content: center;
+    align-items: center;
+}
