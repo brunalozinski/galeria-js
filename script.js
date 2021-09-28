@@ -32,3 +32,4 @@ const criarItem = (urlImagem) => {
 const carregarImagens = () => images.forEach(criarItem)
 
 carregarImagens()
+
